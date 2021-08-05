@@ -28,4 +28,11 @@ Commands| Description
 
 ## Android Studio Setup <a name="setup"></a>
 
+* <ins>Giving theme to Android Studio</ins> : I use Halcyon theme. Go to Preferences -> plugins and search for theme you want to use.
+* <ins>Making logs colorful</ins> : Preferences -> Editor -> Color Scheme  ->  Android Logcat
+  - Debug: #5CCFE6, Error: #EF6B73, Info: #BAE67E, Warning: #FFD580
+* <ins>Configure logcat header</ins>: On the logcat's left panel is the Settings icon. Just 'show tag' is is enough in most cases.
+* <ins>Disable unused plugins</ins>: Go to Preferences -> Plugins. I disable Mercurial and Subversion. 
+* <ins>Increase Heapsize</ins> Preference -> Heapsize = 3072MB
+
 ## Setting up emulator to work with Charles Proxy <a name="charles"></a>
